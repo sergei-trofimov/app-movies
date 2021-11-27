@@ -1,0 +1,259 @@
+{
+  "users": [],
+  "movies": [
+    {
+      "id": 1,
+      "Actors": "Macaulay Culkin, Joe Pesci, Daniel Stern",
+      "BoxOffice": "$285,761,243",
+      "Country": "United States",
+      "Director": "Chris Columbus",
+      "Genre": "Comedy, Family",
+      "Plot": "An eight-year-old troublemaker must protect his house from a pair of burglars when he is accidentally left home alone by his family during Christmas vacation.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMzFkM2YwOTQtYzk2Mi00N2VlLWE3NTItN2YwNDg1YmY0ZDNmXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg",
+      "Ratings": [
+        { "Source": "Internet Movie Database", "Value": "7.6/10" },
+        { "Source": "Rotten Tomatoes", "Value": "66%" },
+        { "Source": "Metacritic", "Value": "63/100" }
+      ],
+      "Released": "16 Nov 1990",
+      "Runtime": "103 min",
+      "Title": "Home Alone",
+      "Type": "movie",
+      "Year": "1990",
+      "imdbID": "tt0099785",
+      "imdbRating": "7.6"
+    },
+    {
+      "id": 2,
+      "Actors": "Leonardo DiCaprio, Joseph Gordon-Levitt, Elliot Page",
+      "BoxOffice": "$292,576,195",
+      "Country": "United Kingdom, United States",
+      "Director": "Christopher Nolan",
+      "Genre": "Action, Adventure, Sci-Fi",
+      "Plot": "A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O., but his tragic past may doom the project and his team to disaster.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjAxMzY3NjcxNF5BMl5BanBnXkFtZTcwNTI5OTM0Mw@@._V1_SX300.jpg",
+      "Ratings": [
+        { "Source": "Internet Movie Database", "Value": "8.8/10" },
+        { "Source": "Rotten Tomatoes", "Value": "87%" },
+        { "Source": "Metacritic", "Value": "74/100" }
+      ],
+      "Released": "16 Jul 2010",
+      "Runtime": "148 min",
+      "Title": "Inception",
+      "Year": "2010",
+      "imdbID": "tt1375666",
+      "imdbRating": "8.8"
+    },
+    {
+      "id": 3,
+      "Actors": "Uma Thurman, David Carradine, Daryl Hannah",
+      "BoxOffice": "$70,099,045",
+      "Country": "United States, Hong Kong",
+      "Director": "Quentin Tarantino",
+      "Genre": "Action, Crime, Drama",
+      "Plot": "After awakening from a four-year coma, a former assassin wreaks vengeance on the team of assassins who betrayed her.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNzM3NDFhYTAtYmU5Mi00NGRmLTljYjgtMDkyODQ4MjNkMGY2XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
+      "Ratings": [
+        { "Source": "Internet Movie Database", "Value": "8.1/10" },
+        { "Source": "Rotten Tomatoes", "Value": "85%" },
+        { "Source": "Metacritic", "Value": "69/100" }
+      ],
+      "Released": "10 Oct 2003",
+      "Runtime": "111 min",
+      "Title": "Kill Bill: Vol. 1",
+      "Year": "2003",
+      "imdbID": "tt0266697",
+      "imdbRating": "8.1"
+    },
+    {
+      "id": 4,
+      "Actors": "Robert Downey Jr., Chris Evans, Scarlett Johansson",
+      "BoxOffice": "$623,357,910",
+      "Country": "United States",
+      "Director": "Joss Whedon",
+      "Genre": "Action, Adventure, Sci-Fi",
+      "Plot": "Earth's mightiest heroes must come together and learn to fight as a team if they are going to stop the mischievous Loki and his alien army from enslaving humanity.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNDYxNjQyMjAtNTdiOS00NGYwLWFmNTAtNThmYjU5ZGI2YTI1XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg",
+      "Ratings": [
+        { "Source": "Internet Movie Database", "Value": "8.0/10" },
+        { "Source": "Rotten Tomatoes", "Value": "91%" },
+        { "Source": "Metacritic", "Value": "69/100" }
+      ],
+      "Released": "04 May 2012",
+      "Runtime": "143 min",
+      "Title": "The Avengers",
+      "Year": "2012",
+      "imdbID": "tt0848228",
+      "imdbRating": "8.0"
+    },
+    {
+      "id": 5,
+      "Actors": "Joseph Gordon-Levitt, Shailene Woodley, Melissa Leo",
+      "BoxOffice": "$21,587,519",
+      "Country": "United Kingdom, France, Germany, United States",
+      "Director": "Oliver Stone",
+      "Genre": "Biography, Crime, Drama",
+      "Plot": "The NSA's illegal surveillance techniques are leaked to the public by one of the agency's employees, Edward Snowden, in the form of thousands of classified documents distributed to the press.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTg2MzYzNzgzOF5BMl5BanBnXkFtZTgwOTg4NzQ4OTE@._V1_SX300.jpg",
+      "Ratings": [
+        { "Source": "Internet Movie Database", "Value": "7.3/10" },
+        { "Source": "Rotten Tomatoes", "Value": "61%" },
+        { "Source": "Metacritic", "Value": "58/100" }
+      ],
+      "Released": "16 Sep 2016",
+      "Runtime": "134 min",
+      "Title": "Snowden",
+      "Year": "2016",
+      "imdbID": "tt3774114",
+      "imdbRating": "7.3"
+    },
+    {
+      "id": 6,
+      "Actors": "John Cusack, Thandiwe Newton, Chiwetel Ejiofor",
+      "BoxOffice": "$166,112,167",
+      "Country": "United States",
+      "Director": "Roland Emmerich",
+      "Genre": "Action, Adventure, Sci-Fi",
+      "Plot": "A frustrated writer struggles to keep his family alive when a series of global catastrophes threatens to annihilate mankind.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTY0MjEyODQzMF5BMl5BanBnXkFtZTcwMTczMjQ4Mg@@._V1_SX300.jpg",
+      "Ratings": [
+        { "Source": "Internet Movie Database", "Value": "5.8/10" },
+        { "Source": "Rotten Tomatoes", "Value": "39%" },
+        { "Source": "Metacritic", "Value": "49/100" }
+      ],
+      "Released": "13 Nov 2009",
+      "Runtime": "158 min",
+      "Title": "2012",
+      "Year": "2009",
+      "imdbID": "tt1190080",
+      "imdbRating": "5.8"
+    },
+    {
+      "id": 7,
+      "Actors": "Macaulay Culkin, Joe Pesci, Daniel Stern",
+      "BoxOffice": "$285,761,243",
+      "Country": "United States",
+      "Director": "Chris Columbus",
+      "Genre": "Comedy, Family",
+      "Plot": "An eight-year-old troublemaker must protect his house from a pair of burglars when he is accidentally left home alone by his family during Christmas vacation.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMzFkM2YwOTQtYzk2Mi00N2VlLWE3NTItN2YwNDg1YmY0ZDNmXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg",
+      "Ratings": [
+        { "Source": "Internet Movie Database", "Value": "7.6/10" },
+        { "Source": "Rotten Tomatoes", "Value": "66%" },
+        { "Source": "Metacritic", "Value": "63/100" }
+      ],
+      "Released": "16 Nov 1990",
+      "Runtime": "103 min",
+      "Title": "Home Alone",
+      "Type": "movie",
+      "Year": "1990",
+      "imdbID": "tt0099785",
+      "imdbRating": "7.6"
+    },
+    {
+      "id": 8,
+      "Actors": "Leonardo DiCaprio, Joseph Gordon-Levitt, Elliot Page",
+      "BoxOffice": "$292,576,195",
+      "Country": "United Kingdom, United States",
+      "Director": "Christopher Nolan",
+      "Genre": "Action, Adventure, Sci-Fi",
+      "Plot": "A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O., but his tragic past may doom the project and his team to disaster.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjAxMzY3NjcxNF5BMl5BanBnXkFtZTcwNTI5OTM0Mw@@._V1_SX300.jpg",
+      "Ratings": [
+        { "Source": "Internet Movie Database", "Value": "8.8/10" },
+        { "Source": "Rotten Tomatoes", "Value": "87%" },
+        { "Source": "Metacritic", "Value": "74/100" }
+      ],
+      "Released": "16 Jul 2010",
+      "Runtime": "148 min",
+      "Title": "Inception",
+      "Year": "2010",
+      "imdbID": "tt1375666",
+      "imdbRating": "8.8"
+    },
+    {
+      "id": 9,
+      "Actors": "Uma Thurman, David Carradine, Daryl Hannah",
+      "BoxOffice": "$70,099,045",
+      "Country": "United States, Hong Kong",
+      "Director": "Quentin Tarantino",
+      "Genre": "Action, Crime, Drama",
+      "Plot": "After awakening from a four-year coma, a former assassin wreaks vengeance on the team of assassins who betrayed her.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNzM3NDFhYTAtYmU5Mi00NGRmLTljYjgtMDkyODQ4MjNkMGY2XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
+      "Ratings": [
+        { "Source": "Internet Movie Database", "Value": "8.1/10" },
+        { "Source": "Rotten Tomatoes", "Value": "85%" },
+        { "Source": "Metacritic", "Value": "69/100" }
+      ],
+      "Released": "10 Oct 2003",
+      "Runtime": "111 min",
+      "Title": "Kill Bill: Vol. 1",
+      "Year": "2003",
+      "imdbID": "tt0266697",
+      "imdbRating": "8.1"
+    },
+    {
+      "id": 10,
+      "Actors": "Robert Downey Jr., Chris Evans, Scarlett Johansson",
+      "BoxOffice": "$623,357,910",
+      "Country": "United States",
+      "Director": "Joss Whedon",
+      "Genre": "Action, Adventure, Sci-Fi",
+      "Plot": "Earth's mightiest heroes must come together and learn to fight as a team if they are going to stop the mischievous Loki and his alien army from enslaving humanity.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNDYxNjQyMjAtNTdiOS00NGYwLWFmNTAtNThmYjU5ZGI2YTI1XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg",
+      "Ratings": [
+        { "Source": "Internet Movie Database", "Value": "8.0/10" },
+        { "Source": "Rotten Tomatoes", "Value": "91%" },
+        { "Source": "Metacritic", "Value": "69/100" }
+      ],
+      "Released": "04 May 2012",
+      "Runtime": "143 min",
+      "Title": "The Avengers",
+      "Year": "2012",
+      "imdbID": "tt0848228",
+      "imdbRating": "8.0"
+    },
+    {
+      "id": 11,
+      "Actors": "Joseph Gordon-Levitt, Shailene Woodley, Melissa Leo",
+      "BoxOffice": "$21,587,519",
+      "Country": "United Kingdom, France, Germany, United States",
+      "Director": "Oliver Stone",
+      "Genre": "Biography, Crime, Drama",
+      "Plot": "The NSA's illegal surveillance techniques are leaked to the public by one of the agency's employees, Edward Snowden, in the form of thousands of classified documents distributed to the press.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTg2MzYzNzgzOF5BMl5BanBnXkFtZTgwOTg4NzQ4OTE@._V1_SX300.jpg",
+      "Ratings": [
+        { "Source": "Internet Movie Database", "Value": "7.3/10" },
+        { "Source": "Rotten Tomatoes", "Value": "61%" },
+        { "Source": "Metacritic", "Value": "58/100" }
+      ],
+      "Released": "16 Sep 2016",
+      "Runtime": "134 min",
+      "Title": "Snowden",
+      "Year": "2016",
+      "imdbID": "tt3774114",
+      "imdbRating": "7.3"
+    },
+    {
+      "id": 12,
+      "Actors": "John Cusack, Thandiwe Newton, Chiwetel Ejiofor",
+      "BoxOffice": "$166,112,167",
+      "Country": "United States",
+      "Director": "Roland Emmerich",
+      "Genre": "Action, Adventure, Sci-Fi",
+      "Plot": "A frustrated writer struggles to keep his family alive when a series of global catastrophes threatens to annihilate mankind.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTY0MjEyODQzMF5BMl5BanBnXkFtZTcwMTczMjQ4Mg@@._V1_SX300.jpg",
+      "Ratings": [
+        { "Source": "Internet Movie Database", "Value": "5.8/10" },
+        { "Source": "Rotten Tomatoes", "Value": "39%" },
+        { "Source": "Metacritic", "Value": "49/100" }
+      ],
+      "Released": "13 Nov 2009",
+      "Runtime": "158 min",
+      "Title": "2012",
+      "Year": "2009",
+      "imdbID": "tt1190080",
+      "imdbRating": "5.8"
+    }
+  ]
+}

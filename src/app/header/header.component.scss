@@ -1,0 +1,18 @@
+.example-spacer {
+  flex: 1 1 auto;
+}
+
+mat-toolbar {
+  background: black;
+  color: wheat;
+  margin-bottom: 40px;
+}
+
+.logo-link {
+  text-decoration: none;
+  color: wheat;
+
+  &:active {
+    color: rgb(209, 189, 153);
+  }
+}
